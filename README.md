@@ -1,0 +1,1 @@
+# Android-Application-to-collect-COVID-19-related-symptoms
