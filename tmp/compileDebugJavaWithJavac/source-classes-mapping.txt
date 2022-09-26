@@ -1,0 +1,25 @@
+com/example/covidsymptoms/BuildConfig.java
+ com.example.covidsymptoms.BuildConfig
+com/example/covidsymptoms/DatabaseLoader.java
+ com.example.covidsymptoms.DatabaseLoader
+com/example/covidsymptoms/RespiratoryRate.java
+ com.example.covidsymptoms.RespiratoryRate
+com/example/covidsymptoms/DataValues.java
+ com.example.covidsymptoms.DataValues
+com/example/covidsymptoms/MainActivity.java
+ com.example.covidsymptoms.MainActivity
+ com.example.covidsymptoms.MainActivity$1
+com/example/covidsymptoms/SymptomsPage.java
+ com.example.covidsymptoms.SymptomsPage
+ com.example.covidsymptoms.SymptomsPage$1
+ com.example.covidsymptoms.SymptomsPage$2
+ com.example.covidsymptoms.SymptomsPage$3
+com/example/covidsymptoms/Mainpage.java
+ com.example.covidsymptoms.Mainpage
+ com.example.covidsymptoms.Mainpage$1
+ com.example.covidsymptoms.Mainpage$2
+ com.example.covidsymptoms.Mainpage$3
+ com.example.covidsymptoms.Mainpage$4
+ com.example.covidsymptoms.Mainpage$5
+ com.example.covidsymptoms.Mainpage$6
+ com.example.covidsymptoms.Mainpage$HeartRateCalculatorTask

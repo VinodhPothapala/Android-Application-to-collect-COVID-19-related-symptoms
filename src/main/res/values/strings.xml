@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CovidApp-Vinodh</string>
+    <string-array name="symptoms_array">
+        <item>HEADACHE</item>
+        <item>DIARRHEA</item>
+        <item>SORE_THROAT</item>
+        <item>FEVER</item>
+        <item>MUSCLE_ACHE</item>
+        <item>LOSS_SMELL_TASTE</item>
+        <item>Cough</item>
+        <item>SHORTNESS_BREATH</item>
+        <item>FEELING_TIRED</item>
+        <item>NAUSEA</item>
+    </string-array>
+</resources>
